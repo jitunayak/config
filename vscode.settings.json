@@ -2,6 +2,9 @@
   
   "breadcrumbs.enabled": false,
   
+  // Show variable values inline in editor while debugging.
+  "debug.inlineValues": true, 
+  
   "editor.codeActionsOnSave": {
     // For ESLint
     "source.fixAll.eslint": true,
