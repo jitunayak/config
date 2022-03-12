@@ -13,8 +13,11 @@ prompt spaceship
 fpath=($fpath "/Users/jitunayak/.zfunctions")
 export LANG=en_US.UTF-8
 
+# Common Utility Alias
 alias k="clear"
 alias o="open"
+
+# Git Alias
 alias gcm="git commit -m"
 alias gal="git add ."
 
