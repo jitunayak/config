@@ -1,15 +1,10 @@
 {
-  
   "breadcrumbs.enabled": false,
-  
-  // Show variable values inline in editor while debugging.
-  "debug.inlineValues": true, 
-  
+
+  "debug.inlineValues": true,
+
   "editor.codeActionsOnSave": {
-    // For ESLint
     "source.fixAll.eslint": true,
-    // For TSLint
-    // For Stylelint
     "source.fixAll.stylelint": true
   },
   "editor.cursorSmoothCaretAnimation": true,
@@ -24,19 +19,17 @@
   "editor.minimap.enabled": false,
   "editor.suggestSelection": "first",
   "editor.wordWrap": "on",
-  
+
   "terminal.integrated.fontFamily": "MonoLisa",
   "terminal.integrated.fontSize": 14,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  
+
   "window.zoomLevel": 1,
-  
+
   "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Material Theme Darker",
   "workbench.editor.enablePreview": false,
-  "window.titleBarStyle": "custom"
+  "window.titleBarStyle": "custom",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.productIconTheme": "fluent-icons",
-  "workbench.statusBar.visible": false,
-  
-  }
+  "workbench.statusBar.visible": false
+}
