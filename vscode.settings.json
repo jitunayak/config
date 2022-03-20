@@ -8,7 +8,7 @@
     "source.fixAll.stylelint": true
   },
   "editor.cursorSmoothCaretAnimation": true,
-  "editor.fontFamily": "'MonoLisa','Cascadia Mono','Jetbrains Mono',Consolas, 'Courier New', monospac",
+  "editor.fontFamily": "'MonoLisa','Cascadia Code','Jetbrains Mono',Consolas, 'Courier New', monospac",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.fontWeight": "600",
