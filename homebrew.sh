@@ -8,3 +8,7 @@ brew tap dimentium/autoraise
 brew install autoraise
 brew services start autoraise
 
+#LinearMouse will reverse the scrolling direction for mice but keep the direction for trackpads
+brew install --cask linearmouse --no-quarantine
+
+# https://github.com/lujjjh/LinearMouse/releases/latest/download/LinearMouse.dmg
