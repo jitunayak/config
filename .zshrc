@@ -20,6 +20,8 @@ alias o="open"
 # Git Alias
 alias gcm="git commit -m"
 alias gal="git add ."
+alias gro="git remote add origin"
+alias gpo="git push -u origin main"
 
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
