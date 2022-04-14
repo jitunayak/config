@@ -12,3 +12,6 @@ brew services start autoraise
 brew install --cask linearmouse --no-quarantine
 
 # https://github.com/lujjjh/LinearMouse/releases/latest/download/LinearMouse.dmg
+
+# Hide menu bar
+brew install --cask hiddenbar
