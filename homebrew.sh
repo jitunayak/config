@@ -15,3 +15,9 @@ brew install --cask linearmouse --no-quarantine
 
 # Hide menu bar
 brew install --cask hiddenbar
+
+# optional
+brew install --cask dozer
+
+# Best modern terminal 
+brew install --cask warp
