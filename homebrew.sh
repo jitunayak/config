@@ -21,3 +21,6 @@ brew install --cask dozer
 
 # Best modern terminal 
 brew install --cask warp
+
+# Uses windows like alt tab to show all application windows
+brew install alt-tab	
