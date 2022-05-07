@@ -24,3 +24,6 @@ brew install --cask warp
 
 # Uses windows like alt tab to show all application windows
 brew install alt-tab	
+
+# Control external monitor brightness
+https://github.com/MonitorControl/MonitorControl
