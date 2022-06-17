@@ -2,6 +2,9 @@ brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install git
 
+git config --global user.name "jitunayak"
+git config --global user.email jitunayak715@gmail.com
+
 
 # When you hover a window it will be raised to the front 
 brew tap dimentium/autoraise
