@@ -6,7 +6,7 @@ git config --global user.name "jitunayak"
 git config --global user.email jitunayak715@gmail.com
 
 
-# When you hover a window it will be raised to the front 
+# When you hover a window it will be raised to the front
 brew tap dimentium/autoraise
 brew install autoraise
 brew services start autoraise
@@ -22,11 +22,14 @@ brew install --cask hiddenbar
 # optional
 brew install --cask dozer
 
-# Best modern terminal 
+# Best modern terminal
 brew install --cask warp
 
 # Uses windows like alt tab to show all application windows
-brew install alt-tab	
+brew install alt-tab
 
 # Control external monitor brightness
 https://github.com/MonitorControl/MonitorControl
+
+# Limit charge of battery
+https://github.com/davidwernhart/AlDente
