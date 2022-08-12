@@ -24,6 +24,7 @@ brew install --cask dozer
 
 # Best modern terminal
 brew install --cask warp
+brew install fig
 
 # Uses windows like alt tab to show all application windows
 brew install alt-tab
@@ -33,3 +34,7 @@ https://github.com/MonitorControl/MonitorControl
 
 # Limit charge of battery
 https://github.com/davidwernhart/AlDente
+
+
+brew install awscli
+brew install terraform
