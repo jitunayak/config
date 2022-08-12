@@ -38,3 +38,5 @@ https://github.com/davidwernhart/AlDente
 
 brew install awscli
 brew install terraform
+brew install jumpcut
+brew install postman
