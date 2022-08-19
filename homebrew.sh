@@ -40,3 +40,4 @@ brew install awscli
 brew install terraform
 brew install jumpcut
 brew install postman
+brew install --cask maccy
